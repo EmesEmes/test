@@ -20,10 +20,6 @@ const logger = winston.createLogger({
   transports: [
     new winston.transports.Console({
       level: "debug"
-    }),
-    new winston.transports.File({
-      filename: "logs/error.log",
-      level: "warning"
     })
   ]
 })

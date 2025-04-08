@@ -1,3 +1,0 @@
-2025-04-05 12:49:19 [WARNING]: entra al metodo getOrderByUserId - warn
-2025-04-05 12:49:19 [ERROR]: entra al metodo getOrderByUserId - error
-2025-04-05 12:49:19 [ERROR]: Cast to ObjectId failed for value "67def2ce969d1e2a1416073" (type string) at path "user" for model "orders"
